@@ -11,21 +11,3 @@ To get started with GameHub, follow these steps:
 3. Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first.
 4. Add the API key to **src/services/api-client.ts**
 5. Run `npm run dev` to start the web server.
-
-## About the Course
-
-I have designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
-
-- Build front-end apps with React and TypeScript
-- Build reusable function components
-- Style your components using vanilla CSS, CSS modules, and CSS-in-JS
-- Manage component state
-- Build forms with React Hook Forms
-- Implement form validation using Zod
-- Connect your React apps to the backend
-- Deploy your React apps
-- Use VSCode shortcuts to increase your productivity
-- Write clean code like a pro
-- Apply best practices
-
-By the end of this course, you'll have a solid understanding of React and be able to build real-world applications with React and TypeScript.
