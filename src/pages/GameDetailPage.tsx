@@ -10,9 +10,7 @@ const GameDetailPage = () => {
 		return <Spinner />;
 	}
 
-	if (error && !game) {
-		throw error;
-	}
+	if (error || !game) throw error;
 
 	return (
 		<>
